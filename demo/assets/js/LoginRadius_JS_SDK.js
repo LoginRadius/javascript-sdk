@@ -1,3 +1,5 @@
+/** LoginRadius Javascript SDK version 1.0.0 */
+
 class LRError extends Error {
     constructor(errorType, error_description) {
         super(error_description);
