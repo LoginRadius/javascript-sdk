@@ -1,4 +1,4 @@
-# JS SDK 
+# Javascript SDK 
 
 ![Home Image](https://docs.lrcontent.com/resources/github/banner-1544x500.png)
 
