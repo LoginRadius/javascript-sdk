@@ -22,7 +22,7 @@ Please visit [here](http://www.loginradius.com/) for more information.
 In order to utilize the LoginRadius JS SDK, you will need to initialize the SDK with the following configurations:
 
 ```
-import initializeSDKClient from './loginRadiusJsSdk.js'
+import initializeSDKClient from './LoginRadius_JS_SDK.js'
 
     LoginRadiusSDK = new initializeSDKClient({
       appName: {{Required | YOUR App Name}},

@@ -1,4 +1,4 @@
-import initializeSDKClient from './loginRadiusJsSdk.js'
+import initializeSDKClient from './LoginRadius_JS_SDK.js'
 
 
 
