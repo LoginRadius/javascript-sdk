@@ -16,3 +16,5 @@ apiDomain: {{Optional | Api endpoint , default is https://api.loginradius.com}}
 debugMode: {{Optional| true/false}}
 
 ```
+
+After configuring options.js, open index.html file in browser and demo will appear.

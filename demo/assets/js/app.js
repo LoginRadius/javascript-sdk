@@ -99,7 +99,7 @@ window.logout = async () => {
 window.register = async () => {
 
     LoginRadiusSDK.openRegisterPage({
-        returnTo: window.location.href
+        redirect_uri: window.location.href
     });
 };
 

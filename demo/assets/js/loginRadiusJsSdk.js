@@ -649,7 +649,7 @@ export default class initializeSDKClient {
     };
 
 
-    /** @public this function is used to get token from browser's local storage
+    /** @public this function is used to get the access token from the browser's local storage
      **/
     async getToken() {
 
