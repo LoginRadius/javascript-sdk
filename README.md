@@ -1,4 +1,4 @@
-# Javascript SDK 
+# JavaScript SDK 
 
 ![Home Image](https://docs.lrcontent.com/resources/github/banner-1544x500.png)
 
@@ -129,6 +129,8 @@ This method fetches the profile based on the access token.
 ```
 LoginRadiusSDK.getUserProfile();
 ```
+
+For details around LoginRadius Identity Experience Framework (IDX) and its customization please refer [here](https://www.loginradius.com/docs/libraries/identity-experience-framework/overview/#identity-experience-framework).
 
 Demo
 =====
